@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prologue to a new play called Ann Bullen acted at the Duke's house</title>
+            <author>Banks, John, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30843</idno>
+            <idno type="STC">Wing B661</idno>
+            <idno type="STC">ESTC R26675</idno>
+            <idno type="EEBO-CITATION">09523428</idno>
+            <idno type="OCLC">ocm 09523428</idno>
+            <idno type="VID">43448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43448)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1323:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prologue to a new play called Ann Bullen acted at the Duke's house</title>
+                  <author>Banks, John, d. 1706.</author>
+                  <author>Banks, John, d. 1706. Virtue betrayed, or, Anna Bullen.</author>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Allen Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>On verso: Epilogue to the same.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:43448:1" rendition="simple:additions"/>
+            <head>
+               <hi>Prologue to a New Play, called</hi> Anna Bullen, <hi>Acted at the Duke's Houſe.</hi>
+            </head>
+            <lg>
+               <l>TO all Impartial Judges in the Pit,</l>
+               <l>And to each beautious Patroneſs of Wit,</l>
+               <l>I'm ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to plead the <hi>Poet</hi>'s Cauſe<g ref="char:punc">▪</g> and ſay,</l>
+               <l>There's not one ſlander in his Modeſt Play.</l>
+               <l>He brings before your eyes a modern Story,</l>
+               <l>Yet meddles not with either <hi>Whig</hi> or <hi>Tory.</hi>
+               </l>
+               <l>Was't not enough (vain men, of either ſide)</l>
+               <l>Two Roſes once the Nation did divide?</l>
+               <l>But muſt it be in danger now agen,</l>
+               <l>Betwixt the <hi>Scarlet,</hi> and <hi>Green-Ribbon-men?</hi>
+               </l>
+               <l>Who made this diff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rence were not <hi>Englands</hi> Friends;</l>
+               <l>Be not their Tools, to ſerve their Plotting Ends.</l>
+               <l>Damn the State-Fop, who here his Zeal diſcovers,</l>
+               <l>And o'r the Stage (like our Ill Genius hovers:</l>
+               <l>Give me a Pit of Drinkers, and of Lovers:</l>
+               <l>Good Sanguine men, who mind no State-Affair,</l>
+               <l>But bid a baſe World of it ſelf take care.</l>
+               <l>We hope their Life's not ſo abhorr'd a thing,</l>
+               <l>But loves his Countrey, and would ſerve his King.</l>
+               <l>But, in your Parties why ſhould we engage,</l>
+               <l>Or meddle with the <hi>Plots</hi> of this mad Age?</l>
+               <l>We loſe enough by thoſe upon the Stage.</l>
+               <l>Again bring your ill Nature, your falſe Wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Your noiſie Mirth, your fighting in the Pit.</l>
+               <l>Welcom maſque Teazer, peeviſh Gameſter, Huffer,</l>
+               <l>All Fools; but Politicians we can ſuffer</l>
+               <l>In Gods Name let each man keep to's own Vocation,</l>
+               <l>Our Trade is to mend you, and not the Nation.</l>
+               <l>Beſides, our Author has this further end,</l>
+               <l>Fears he's not ſafe, if but one ſide's his Friend.</l>
+               <l>He needs to all, his weakneſs to defend.</l>
+               <l>And, to oblige you to't, hopes he has ſhown,</l>
+               <l>No Countrey has men braver than your own.</l>
+               <l>His Heroes all to <hi>England</hi> are confin'd:</l>
+               <l>To your own Fathers ſure you will be kind.</l>
+               <l>He brings no Foreigners to move your pity,</l>
+               <l>But ſends them to a <hi>Jury of the City:</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:43448:2"/>
+            <head>EPILOG<g ref="char:V">Ʋ</g>E to the ſame.</head>
+            <lg>
+               <l>WEll, Sirs<g ref="char:punc">▪</g> your kind Opinions now, I pray</l>
+               <l>Of this our neither <hi>Whig</hi> nor <hi>Tory</hi> Play:</l>
+               <l>To blow ſuch Coals his conſcious Muſe denies;</l>
+               <l>Wit (Sacred Wit) ſuch Subjects ſhou'd deſpiſe:</l>
+               <l>To abuſe one Party with a Curſed Play,</l>
+               <l>And bribe the other for a vaſt <hi>Third Day.</hi>
+               </l>
+               <l>Like <hi>Gladiators</hi> then you ſtrait reſort,</l>
+               <l>And crowd to make your <hi>Nero</hi>-Faction ſport.</l>
+               <l>But, what is worſe, that men of ſenſe ſhould do it,</l>
+               <l>For worrying one another, pay the <hi>Poet:</hi>
+               </l>
+               <l>So Butchers at a baiting take delight</l>
+               <l>For him who keeps the Bears to roar and fight;</l>
+               <l>Both friends and foes ſuch Authors make their Game,</l>
+               <l>And get your Money, which was all their aim:</l>
+               <l>No matter for the <hi>Play,</hi> nor for the <hi>Wit,</hi>
+               </l>
+               <l>The better <hi>Farce</hi> is acted in the <hi>Pit.</hi>
+               </l>
+               <l>Both Parties to be cheated well agree,</l>
+               <l>And ſwallow any Non-ſence, ſo it be</l>
+               <l>With <hi>Faction</hi> guilt, or fac'd with <hi>Loyalty.</hi>
+               </l>
+               <l>Here's ſuch a Rout with <hi>Whigging</hi> and with <hi>Torying,</hi>
+               </l>
+               <l>That you forget your dear lov'd Sin of <hi>Whoring.</hi>
+               </l>
+               <l>The Vizard Maſque, who ventures her half Crown,</l>
+               <l>Finding no hopes but here to be undone:</l>
+               <l>Like a caſt Miſtreſs, paſt her dear Delight,</l>
+               <l>Turns Godly ſtrait, and goes to Church for ſpite;</l>
+               <l>And does not doubt, ſince you are grown ſo fickle,</l>
+               <l>to find more Cullies in a <hi>Conventicle.</hi>
+               </l>
+               <l>We on the Stage ſtand ſtill, and are content</l>
+               <l>To ſee you act what we ſhould repreſent.</l>
+               <l>You uſe us like the Women that you wooe,</l>
+               <l>You give us Sport, and pay us for it too.</l>
+               <l>Well, we're reſolved in our next <hi>Play-Bill</hi>
+               </l>
+               <l>To print at large a Tryal of your Skill;</l>
+               <l>Then more we hope will run to ſuch a Sight,</l>
+               <l>Than would to ſee 500 Monſters fight,</l>
+               <l>Or hear our ſtubborn Captain's laſt <hi>Good Night.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Allen Banks.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
